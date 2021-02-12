@@ -29,7 +29,7 @@ input[type=text] {
   width: 100%;
 }
 input[type=submit] {
-  background-color: DodgerBlue;
+  background-color: #7ab929;
   color: #fff;
 }
 .autocomplete-items {
