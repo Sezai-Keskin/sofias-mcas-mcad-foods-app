@@ -1,7 +1,13 @@
 * { box-sizing: border-box; }
 body {
   font: 16px Arial;
+  background-color: black;
+  color: white;
   
+}
+
+h1 {
+  color: #7ab929
 }
 
 img {
@@ -51,6 +57,10 @@ input[type=submit] {
   /*when navigating through the items using the arrow keys:*/
   background-color: DodgerBlue !important;
   color: #ffffff;
+}
+
+a {
+  color: #7ab929
 }
 
 footer {
